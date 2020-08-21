@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/polyademo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/polyademo/static/js/main.5271022d.chunk.js",
+    "main.js.map": "/polyademo/static/js/main.5271022d.chunk.js.map",
+    "runtime-main.js": "/polyademo/static/js/runtime-main.f262dc39.js",
+    "runtime-main.js.map": "/polyademo/static/js/runtime-main.f262dc39.js.map",
+    "static/js/2.eb0826a0.chunk.js": "/polyademo/static/js/2.eb0826a0.chunk.js",
+    "static/js/2.eb0826a0.chunk.js.map": "/polyademo/static/js/2.eb0826a0.chunk.js.map",
+    "index.html": "/polyademo/index.html",
+    "precache-manifest.403c926422efd3a052a46f182434106d.js": "/polyademo/precache-manifest.403c926422efd3a052a46f182434106d.js",
+    "service-worker.js": "/polyademo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/polyademo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb0826a0.chunk.js.LICENSE.txt": "/polyademo/static/js/2.eb0826a0.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/polyademo/static/media/Resume.fee0e873.pdf",
+    "static/media/logo.svg": "/polyademo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f262dc39.js",
+    "static/js/2.eb0826a0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5271022d.chunk.js"
+  ]
+}
